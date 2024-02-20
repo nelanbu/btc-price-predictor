@@ -1,0 +1,5 @@
+hopsworks
+dotenv
+tensorflow
+matplotlib
+gradio

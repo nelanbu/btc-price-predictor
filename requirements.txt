@@ -1,0 +1,5 @@
+binance-connector
+hopsworks
+python-dotenv
+pandas
+numpy

@@ -1,0 +1,10 @@
+hopsworks
+wheel
+pyproject-toml
+python-ffmpeg
+binance-connector
+pandas
+numpy
+python-dotenv
+hsfs
+twofish
